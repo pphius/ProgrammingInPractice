@@ -25,6 +25,7 @@ int main() {
     printf("Municipality : %s\n", municipality);
     printf("Mayor        : %s\n", mayor);
     printf("Population   : %d\n", population);
+    printf("As of 2025\n", population);
 
     return 0;
 }
